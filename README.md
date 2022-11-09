@@ -1,6 +1,6 @@
 # GenshinVoice
 
-此处包含原神3.2版本中直接提取出的所有音频文件和对应的文字文本，保证完整和正确（除非游戏内就错了）。
+此处包含原神3.1+3.2版本中直接提取出的所有音频文件和对应的文字文本，保证完整和正确（除非游戏内就错了）。
 
 链接： [点击此处](https://kokona-my.sharepoint.com/:f:/g/personal/suhui_kokona_tech/Erk1kf9NgF5CqBVnINIrWKUBg_T-7FrM98Z-hX227jiTOA?e=3qAefT)
 
