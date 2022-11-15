@@ -2,7 +2,7 @@
 
 此处包含原神3.1+3.2版本中直接提取出的所有语音文件和对应的文字文本，保证完整和正确（除非游戏内就错了）。
 
-(文件中部分text字段有缺失，因为fetters部分的text尚未加入，还有部分语音已经实际上从游戏中删除所以没有对应的text，但是仍保留着对应的引用，所以仍会呈现在result.json中）
+(文件中暂时只包括Dialog任务对话相关的文本，fetters部分的text尚未加入。此外，部分语音已经实际上从游戏中删除所以没有对应的text，但是仍保留着对应的引用，所以仍会呈现在result.json中）
 
 This repository contains all voice audio files and corresponding NPC names and texts from Genshin Impact 3.1 and 3.2. 
 All files are extracted directly from the game.
