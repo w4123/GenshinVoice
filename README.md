@@ -2,7 +2,7 @@
 
 此处包含原神3.1+3.2版本中直接提取出的所有语音文件和对应的文字文本。
 
-(部分语音已经实际上从游戏中删除所以没有对应的text，但是仍保留着对应的引用，所以仍会呈现在result.json中）
+目前result.json文件中包含71599条记录（不计不同语言的相同条目），其中4285条没有text数据，3226条没有npc数据（原因可能是这些语音已经实际上在游戏中删除，或者这些语音本身就不包含对应的文字信息等）
 
 This repository contains all voice audio files and corresponding NPC names and texts from Genshin Impact 3.1 and 3.2. 
 All files are extracted directly from the game.
