@@ -1,10 +1,12 @@
 # GenshinVoice
 
-此处包含原神3.1+3.2版本中直接提取出的所有语音文件和对应的文字文本。
+此处包含原神中直接提取出的所有语音文件和对应的文字文本。
+
+正在更新3.3版本内容。目前共计75103条语音文件。
 
 目前result.json文件中包含71599条记录（不计不同语言的相同条目），其中4285条没有text数据，3226条没有npc数据（原因可能是这些语音已经实际上在游戏中删除，或者这些语音本身就不包含对应的文字信息等）
 
-This repository contains all voice audio files and corresponding NPC names and texts from Genshin Impact 3.1 and 3.2. 
+This repository contains all voice audio files and corresponding NPC names and texts from Genshin Impact.
 All files are extracted directly from the game.
 
 链接 Link： [点击此处 Click Here](https://kokona-my.sharepoint.com/:f:/g/personal/suhui_kokona_tech/Erk1kf9NgF5CqBVnINIrWKUBg_T-7FrM98Z-hX227jiTOA?e=3qAefT)
