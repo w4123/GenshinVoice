@@ -2,9 +2,12 @@
 
 此处包含原神中直接提取出的所有语音文件和对应的文字文本。
 
-正在更新3.3版本内容。目前共计75103条语音文件。
+已更新3.3版本内容。不计不同语言的相同文本，目前共计75103条语音文件，来自于版本3.1，3.2，3.3。result.json中包含75515条记录（部分记录所对应的实际音频文件已被删除，这些记录也没有对应的文本信息）。其中70761条包含text文本记录，71807条包含npcName名称记录。
 
-目前result.json文件中包含71599条记录（不计不同语言的相同条目），其中4285条没有text数据，3226条没有npc数据（原因可能是这些语音已经实际上在游戏中删除，或者这些语音本身就不包含对应的文字信息等）
+3.3版本更新内容主要如下：
+1. 新任务语音
+2. 新角色语音 10000075 Wanderer, 10000076 Faruzan，请注意流浪者由于可以由玩家改名，result.json中的npcName可能为#{REALNAME[ID(1)|HOSTONLY(true)]}，请在预处理时加以处理
+3. Card类型七圣召唤语音（迪奥娜教学，卡片语音文本）
 
 This repository contains all voice audio files and corresponding NPC names and texts from Genshin Impact.
 All files are extracted directly from the game.
